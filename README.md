@@ -12,7 +12,7 @@ Secret access key: `xxxxxxxxxxxx`
 
 --- 
 Just a little change.
-
+Just another little change.
 #### How to set up the project environment 
 
 Firstly, we should install the aws command line tools on each instance and do the aws configuration.
